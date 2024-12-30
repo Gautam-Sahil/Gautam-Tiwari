@@ -1,5 +1,5 @@
 # 💫 About Me:
-As a web development enthusiast, I am passionate about building modern and scalable web applications.
+As a web development enthusiast, I am passionate about building modern and scalable websites.
 
 
 ## 🌐 Socials:
